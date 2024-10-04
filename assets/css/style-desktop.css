@@ -139,36 +139,38 @@ body button{
     font-size: 13px;
 }
 
-aside{
+.blocchi{
 
     box-sizing: border-box;
     display: inline-block;
-    width: 33%;
+    width: 30%;
     margin-top: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
+    margin-left: 10px;
     
 }
 
 
-aside img{
+.blocchi img{
 
     width: 100%;
-    height: 50%;
+    height: 100%;
 }
 
-aside h4{
+.blocchi h4{
 
     font-weight: bold;
     color: #25a2ce;
 }
 
-aside p{
+.blocchi p{
 
     color: #63696c;
     padding-bottom: 20px;
+    font-size: 12px;
 }
 
-aside div{
+.blocchi{
 
     border: 1px solid #dee1e3;
     margin-bottom: 20px;
