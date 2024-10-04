@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+
+    display: block;
+    text-align: center;
+    margin-inline: auto;
+    
+    
+
+}
+
+body{
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    line-height: 1.65rem;
+    
+    
+    
+
+}
+
+header{
+    text-align: center;
+    margin-inline: auto;
+    background-color: black;
+    padding: 30px;
+}
+
+header img{
+
+    width: 160px;
+}
+
+
+
+.corso{
+
+    background-image: url(../images/banner.jpg)
+
+}
+
+.corso{
+
+    background-size: contain;
+    padding: 20px;
+}
+
+h1{
+
+    color: #25a2ce;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    line-height: 2rem;
+    
+}
+
+.corso p{
+
+    text-align: center;
+    font-size: 15px;
+    padding: 10p
+}
+
+body button{
+
+    padding: 15px;
+    background-color: #f04c2f;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px;
+}
+
+
+.centro h4{
+
+    font-weight: bold;
+    font-size: 19px;
+    color: #25a2ce;
+    padding: 10px;
+}
+
+.centro img{
+
+    border-radius: 50%;
+    font-size: medium;
+    max-width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.cit{
+
+    background-color: #f04c2f;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.cit h2{
+
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.cit article{
+
+    font-style: italic;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.cit h4{
+
+    font-size: 20px;
+}
+
+.cit p{
+
+    font-size: 13px;
+}
+
+aside{
+
+    display: inline-block;
+    width: 80%;
+    margin-top: 60px;
+    padding-bottom: 40px;
+    
+}
+
+
+aside img{
+
+    width: 100%;
+    height: 50%;
+}
+
+aside h4{
+
+    font-weight: bold;
+    color: #25a2ce;
+}
+
+aside p{
+
+    color: #63696c;
+    padding-bottom: 20px;
+}
+
+aside div{
+
+    border: 1px solid #dee1e3;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+footer{
+
+    background-color: #25a2ce;
+    color: white;
+    padding: 30px;
+}
+
+footer h2{
+
+    font-weight: bold;
+    font-size: 30px;
+    padding: 30px;
+}
+
+footer p{
+
+    text-decoration: underline;
+}
+
+.via{
+
+    text-decoration: none;
+}
+
+.fine{
+    font-size: 13px;
+    text-decoration: none;
+}
+
+span{
+
+    text-decoration: underline;
+    padding-bottom: 30px;
+}
+
+
+
+hr{
+    border: 0;
+    border-top: 1px solid;
+    width: 50%
+}
