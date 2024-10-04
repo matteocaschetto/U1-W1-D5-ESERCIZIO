@@ -96,7 +96,7 @@ body button{
     font-size: medium;
     max-width: 300px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: ;
     
 }
 
@@ -184,6 +184,11 @@ footer h2{
 footer p{
 
     text-decoration: underline;
+}
+
+footer a{
+
+    color: white;
 }
 
 .via{
